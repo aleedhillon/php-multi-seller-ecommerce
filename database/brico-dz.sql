@@ -89,9 +89,9 @@ CREATE TABLE `vendor` (
 --
 
 INSERT INTO `vendor` (`vendor_id`, `vendor_name`, `vendor_email`, `register_date`, `vendor_status`, `vendor_password`, `points`, `balance`, `role`) VALUES
-(12, 'amine kerour', 'amine@gmail.com', '2024-04-06', 'active', '$2y$10$EaD5BZFiCj5rHz2C2dnvt.FE2pu5g/endFp0ZDh04sDSrQDxU9dM.', 5, 10, 'vendor'),
-(15, 'admin', 'o@admin.com', '2024-04-15', 'active', '$2y$10$0./d3wTML9GXT2MOHoQHPe93dqYmQVuccDKZeTZhXTTHJG7EVvBxu', 0, 0, 'admin'),
-(16, 'chiheb abiza', 'chiheb@gmail.com', '2024-04-16', 'active', '$2y$10$uSKiNBCwQ7QNOV4VJLB97ObhYpK1/iwPUKf9FMydIO19fZf4AK6ZG', 10, 0, 'vendor');
+(12, 'amine kerour', 'amine@gmail.com', '2024-04-06', 'active', '$2y$10$GNGVRxYo2vzHKZCF.j8yvugUxcDMEiGXL0w42SRjnr7JI.UR5y08O', 5, 10, 'vendor'),
+(15, 'admin', 'o@admin.com', '2024-04-15', 'active', '$2y$10$GNGVRxYo2vzHKZCF.j8yvugUxcDMEiGXL0w42SRjnr7JI.UR5y08O', 0, 0, 'admin'),
+(16, 'chiheb abiza', 'chiheb@gmail.com', '2024-04-16', 'active', '$2y$10$GNGVRxYo2vzHKZCF.j8yvugUxcDMEiGXL0w42SRjnr7JI.UR5y08O', 10, 0, 'vendor');
 
 --
 -- Indexes for dumped tables
